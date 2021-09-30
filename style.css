@@ -1,0 +1,34 @@
+.menu h1{
+  text-decoration: underline blue;
+  text-align: center;
+
+}
+.photo{
+  height:200px;
+  background-size: cover;
+}
+.section{
+
+  display: inline-grid;
+  grid-template-columns: auto auto ;
+
+}
+
+.item-info header
+{
+  display:flex;
+  justify-content:space-around;
+}
+.section-item{
+  text-align: center;
+}
+.item-text{
+  padding:20px 80px 20px 80px;
+}
+.btn{
+  display: flex;
+   justify-content:center;
+}
+.finaldisplaybuttons{
+  margin-right: 30px;
+}
